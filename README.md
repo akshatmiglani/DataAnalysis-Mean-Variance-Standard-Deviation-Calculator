@@ -37,3 +37,9 @@ We imported the tests from test_module.py to main.py for your convenience. The t
 Submitting
 Copy your project's URL and submit it to freeCodeCamp.
 
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=akshatmiglani&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatmiglani&theme=blue-green)
+
+![GitHub Contributors Image](https://contrib.rocks/image?repo=akshatmiglani/DataAnalysis-Mean-Variance-Standard-Deviation-Calculator)
